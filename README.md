@@ -1,5 +1,3 @@
-# Reddit-Scraper
-Download data from the Reddit API and parse it
 # Reddit Data Collection and Parsing
 
 ## Introduction
