@@ -33,5 +33,5 @@ data = get_reddit_data(subreddit, num_posts)
 if data:
     parsed_data = parse_reddit_data(data)
     print(parsed_data)
-
+```
 Please make sure to follow Reddit's API usage guidelines and respect the terms of use when using the Reddit API for data collection. Additionally, consider the ethical implications of working with user-generated content and handle the data responsibly and with respect for user privacy.
